@@ -9,18 +9,18 @@ The thought process is also mmentioned in the Qtech.ipynb file.
 
 I have a text file that contains conversation between a user and an AI chatbot.
 
-"""Task 1.: My task is to separate the messages by speaker and AI.
+"""Task 1.: My task is to separate the messages by speaker and AI."""
 
     Step 1: load the text file that contains the conversation
     
     Step 2: read the conversation and store them in a variable called lines
     
     Step 3: Separate the User: and AI: part from the conversation and store the ID 
-    of the speaker in a variable and the message in other variable using strip() function."""
+    of the speaker in a variable and the message in other variable using strip() function.
 
 """Task 2: Count total messages"""
 
-"""Task 3: Keyword Analysis
+"""Task 3: Keyword Analysis"""
 
     Step 1: import nltk for keyword extraction
     
@@ -30,6 +30,6 @@ I have a text file that contains conversation between a user and an AI chatbot.
     
     step 4: get all the words excluding the common english words, use isalpha() for excluding punctuation mark
     
-    step 5: use counter to count the frequency of a word"""
+    step 5: use counter to count the frequency of a word
 
 """Task 4: Generate the summary"""
